@@ -42,5 +42,21 @@ We felt that our solution, a kiosk, could address these issues while providing a
   <li> 20 AWG wire </li> 
   <li> iPad 10.5 inch </li> 
   <li> Infrared LED obstacle avoidance sensor </li> 
-</li> 
+</ul> 
 
+## Software Components 
+<ul> 
+  <li> Figma interactive UI demo </li> 
+  <li> StallMate Embedded System </li> 
+</ul>
+
+## The Process
+
+### Physical Fabrication 
+
+### Software Development 
+
+
+## The Result 
+
+## Moving Forward 
